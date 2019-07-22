@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1543949716 source:i:\wpc\wpc\dados_cliente.cpp
+	"dados_cliente.h"
+	<algorithm>
+
+1543949596 i:\wpc\wpc\dados_cliente.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<stdint.h>
+	<mutex>
+	"dados_whatsprog.h"
+	"mysocket.h"
+
+1543358016 i:\wpc\wpc\dados_whatsprog.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdint.h>
+	<list>
+
+1544134189 i:\wpc\wpc\mysocket.h
+	<iostream>
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
+1543357402 source:i:\wpc\wpc\dados_whatsprog.cpp
+	"dados_whatsprog.h"
+
+1543969178 source:i:\wpc\wpc\main_cliente_noform.cpp
+	"dados_cliente.h"
+	"mysocket.h"
+	<cstdio>
+	<thread>
+
+1544134189 source:i:\wpc\wpc\mysocket.cpp
+	<iostream>
+	<string.h>
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+	<unistd.h>
+
+1543949716 source:i:\wpc\dados_cliente.cpp
+	"dados_cliente.h"
+	<algorithm>
+
+1543949596 i:\wpc\dados_cliente.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<stdint.h>
+	<mutex>
+	"dados_whatsprog.h"
+	"mysocket.h"
+
+1543358016 i:\wpc\dados_whatsprog.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdint.h>
+	<list>
+
+1544134189 i:\wpc\mysocket.h
+	<iostream>
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
+1543357402 source:i:\wpc\dados_whatsprog.cpp
+	"dados_whatsprog.h"
+
+1543969178 source:i:\wpc\main_cliente_noform.cpp
+	"dados_cliente.h"
+	"mysocket.h"
+	<cstdio>
+	<thread>
+
+1544134189 source:i:\wpc\mysocket.cpp
+	<iostream>
+	<string.h>
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+	<unistd.h>
+
+1543949716 source:f:\wpc\dados_cliente.cpp
+	"dados_cliente.h"
+	<algorithm>
+
+1543949596 f:\wpc\dados_cliente.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<stdint.h>
+	<mutex>
+	"dados_whatsprog.h"
+	"mysocket.h"
+
+1543358016 f:\wpc\dados_whatsprog.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdint.h>
+	<list>
+
+1544134189 f:\wpc\mysocket.h
+	<iostream>
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
+1543357402 source:f:\wpc\dados_whatsprog.cpp
+	"dados_whatsprog.h"
+
+1543969178 source:f:\wpc\main_cliente_noform.cpp
+	"dados_cliente.h"
+	"mysocket.h"
+	<cstdio>
+	<thread>
+
+1544134189 source:f:\wpc\mysocket.cpp
+	<iostream>
+	<string.h>
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+	<unistd.h>
+

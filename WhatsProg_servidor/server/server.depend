@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1512674502 source:c:\users\camila barbosa\documents\github\dca1202\whatsprog_servidor\serverdata.cpp
+	"serverData.h"
+
+1512540955 c:\users\camila barbosa\documents\github\dca1202\whatsprog_servidor\serverdata.h
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<stdint.h>
+	"whatsprogData.h"
+	"winsocket.h"
+	<fstream>
+
+1512539365 c:\users\camila barbosa\documents\github\dca1202\whatsprog_servidor\whatsprogdata.h
+	<string>
+	<stdint.h>
+
+1510964397 c:\users\camila barbosa\documents\github\dca1202\whatsprog_servidor\winsocket.h
+	<iostream>
+	<cstdlib>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string>
+
+1512166602 source:c:\users\camila barbosa\documents\github\dca1202\whatsprog_servidor\whatsprogdata.cpp
+	"whatsprogData.h"
+
+1510961248 source:c:\users\camila barbosa\documents\github\dca1202\whatsprog_servidor\winsocket.cpp
+	<iostream>
+	"winsocket.h"
+
+1512540652 source:c:\users\camila barbosa\documents\github\dca1202\whatsprog_servidor\whatsprog_server.cpp
+	"serverData.h"
+
+1536418934 source:c:\users\ieber\documents\exemplos c++\whatsprog\whatsprog_servidor\serverdata.cpp
+	"serverData.h"
+
+1536418934 c:\users\ieber\documents\exemplos c++\whatsprog\whatsprog_servidor\serverdata.h
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<stdint.h>
+	"whatsprogData.h"
+	"winsocket.h"
+	<fstream>
+
+1536418934 c:\users\ieber\documents\exemplos c++\whatsprog\whatsprog_servidor\whatsprogdata.h
+	<string>
+	<stdint.h>
+
+1536418934 c:\users\ieber\documents\exemplos c++\whatsprog\whatsprog_servidor\winsocket.h
+	<iostream>
+	<cstdlib>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string>
+
+1536418934 source:c:\users\ieber\documents\exemplos c++\whatsprog\whatsprog_servidor\whatsprog_server.cpp
+	"serverData.h"
+
+1536418934 source:c:\users\ieber\documents\exemplos c++\whatsprog\whatsprog_servidor\whatsprogdata.cpp
+	"whatsprogData.h"
+
+1536418934 source:c:\users\ieber\documents\exemplos c++\whatsprog\whatsprog_servidor\winsocket.cpp
+	<iostream>
+	"winsocket.h"
+
